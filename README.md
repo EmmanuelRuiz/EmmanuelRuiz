@@ -1,4 +1,4 @@
-👋 Hi, I’m @EmmanuelRuiz, a seo consultant at Multiplica ❤️ <br>
-📌I’m learning 🐍Back-End with Python, Data Science & IA <br>
+👋 Hi, I’m @EmmanuelRuiz, a seo consultant ❤️ <br>
+📌I’m learning Elixir 💎<br>
 
 📫 [LinkedIn](https://www.linkedin.com/in/emmanuel-estrada/)
