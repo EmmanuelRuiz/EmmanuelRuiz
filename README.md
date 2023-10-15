@@ -1,4 +1,5 @@
-👋 Hi, I’m @EmmanuelRuiz, a seo consultant ❤️ <br>
-📌I’m learning Elixir 💎<br>
+👋 Hi, I’m @EmmanuelRuiz, a SEO consultant <br>
+
+Elixir dev.<br>
 
 📫 [LinkedIn](https://www.linkedin.com/in/emmanuel-estrada/)
